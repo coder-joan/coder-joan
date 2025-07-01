@@ -1,16 +1,17 @@
-## Hi there 👋
+## Cześć 👋
 
-<!--
-**coder-joan/coder-joan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Nazywam się <b>Joanna</b>. Programowanie to moja pasja, którą wykorzystuję, aby pomagać innym w poznawaniu Słowa Bożego. Na moim profilu znajdziesz projekty stworzone z myślą o chrześcijańskiej społeczności</p>
 
-Here are some ideas to get you started:
+## O mnie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👩‍💻 Tworzę strony internetowe i boty na Discorda
+* 📚 Aktualnie uczę się <b>Pythona</b>, <b>JavaScriptu</b> i <b>Reacta</b>
+* 🎯 Mój cel: stworzyć aplikację internetową zawierającą różne przekłady Pisma Świętego
+* 🔥 Moja motywacja: <b>"Wszystko mogę w Chrystusie, który mnie umacnia"</b> Filipian 4:13
+
+## O moich projektach
+
+* 🤖 <b>Biblia Bot</b> i <b>Bible Bot</b>: to boty służące do studiowania Biblii na Discordzie
+* 🌐 <b>Strony internetowe o biblijnych botach</b>: Biblia Bot i Bible Bot
+
+<img src="https://raw.githubusercontent.com/coder-joan/coder-joan/output/snake.svg" alt="Snake animation" />
