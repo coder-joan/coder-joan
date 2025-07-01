@@ -13,5 +13,3 @@
 
 * 🤖 <b>Biblia Bot</b> i <b>Bible Bot</b>: to boty służące do studiowania Biblii na Discordzie
 * 🌐 <b>Strony internetowe o biblijnych botach</b>: Biblia Bot i Bible Bot
-
-<img src="https://raw.githubusercontent.com/coder-joan/coder-joan/output/snake.svg" alt="Snake animation" />
