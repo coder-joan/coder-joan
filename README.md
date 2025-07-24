@@ -1,16 +1,16 @@
-## Cześć 👋
+## Hi 👋
 
-<p>Nazywam się <b>Joanna</b>. Programowanie to moja pasja, którą wykorzystuję, aby pomagać innym w poznawaniu Słowa Bożego. Na moim profilu znajdziesz projekty stworzone z myślą o chrześcijańskiej społeczności</p>
+<p>My name is <b>Joanna</b>. Programming is my passion, and I use it to help others discover the Word of God. On my profile, you’ll find projects created with the Christian community in mind</p>
 
-## O mnie
+## About me
 
-* 👩‍💻 Tworzę strony internetowe i boty na Discorda
-* 📚 Aktualnie uczę się <b>Pythona</b>, <b>JavaScriptu</b> i <b>Reacta</b>
-* 🎯 Mój cel: stworzyć aplikację internetową zawierającą różne przekłady Pisma Świętego
-* 🔥 Moja motywacja: <b>"Wszystko mogę w Chrystusie, który mnie umacnia"</b> Filipian 4:13
+* 👩‍💻 I create websites and Discord bots
+* 💻 Languages I work with: <b>Python</b> and <b>JavaScript</b>
+* 🎯 My goal: to create a web application featuring various Bible translations
+* 🔥 My motivation: <b>"I can do all things through Christ which strengthens me"</b> Philippians 4:13
 
-## O moich projektach
+## About my projects
 
-* 🤖 <b>Biblia Bot</b> i <b>Bible Bot</b>: to boty służące do studiowania Biblii na Discordzie
+* 🤖 <b>Biblia Bot</b> and <b>Bible Bot</b>: these are bots used for studying the Bible on Discord
 
 <img src="https://raw.githubusercontent.com/coder-joan/coder-joan/output/snake.svg" alt="Snake animation" />
