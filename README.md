@@ -5,7 +5,7 @@
 ## About me
 
 * 👩‍💻 I create websites and Discord bots
-* 💻 Languages I work with: <b>Python</b> and <b>JavaScript</b>
+* 💻 Languages I work with: <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> and <b>Python</b>
 * 🎯 My goal: to create a web application featuring various Bible translations
 * 🔥 My motivation: <b>"I can do all things through Christ which strengthens me"</b> Philippians 4:13
 
